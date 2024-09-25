@@ -1,0 +1,81 @@
+body {
+    font-family: 'Manrope';
+    background: #f5f5f5;
+}
+
+
+.container {
+    margin: 0 auto;
+    padding: 125px;
+    box-sizing: border-box;
+    width: 1400px;
+    background-color: #FFFFFF;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-style: normal;
+    line-height: 60px;
+    font-weight: 400;
+    color: #121212;
+
+    width: 956px;
+    padding-right: 319px;
+    letter-spacing: -1.8px;
+    margin-bottom: 30px;
+
+}
+
+.chair {
+    background-image: url(../resources/photo_1.png);
+    background-size: contain;
+    width: 1150px;
+    height: 500px;
+}
+
+p {
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    width: 430px;
+    padding-top: 379px;
+    padding-left: 40px;
+    color: white;
+}
+
+
+
+.head2 {
+    padding-top: 125px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.block2 {
+    padding-left: 3px;
+    margin-top: 30px;
+    font-family: Manrope;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+
+.button {
+    margin-top: 30px;
+    padding: 20px 40px;
+    background-color: #AD1818;
+    display: inline-block;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-decoration: none;
+}
