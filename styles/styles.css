@@ -10,20 +10,7 @@ body {
     box-sizing: border-box;
     width: 1400px;
     background-color: #FFFFFF;
-
-}
-
-h1 {
-    font-size: 60px;
-    font-style: normal;
-    line-height: 60px;
-    font-weight: 400;
-    color: #121212;
-
-    width: 956px;
-    padding-right: 319px;
-    letter-spacing: -1.8px;
-    margin-bottom: 30px;
+    position: relative;
 
 }
 
@@ -32,40 +19,48 @@ h1 {
     background-size: contain;
     width: 1150px;
     height: 500px;
+    position: relative;
 }
 
-p {
-    font-family: Manrope;
+h1 {
+    font-size: 60px;
+    font-style: normal;
+    line-height: 60px;
+    font-weight: 400;
+    color: #121212;
+    width: 956px;
+    letter-spacing: -1.8px;
+    margin-bottom: 30px;
+
+}
+
+.imagetext {
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     letter-spacing: -0.6px;
     width: 430px;
-    padding-top: 379px;
-    padding-left: 40px;
     color: white;
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
 }
 
-
-
-.head2 {
-    padding-top: 125px;
+h2 {
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
-    letter-spacing: -0.03em;
+    letter-spacing: -3%;
     text-align: left;
+    margin-bottom: 30px;
 }
 
-.block2 {
-    padding-left: 3px;
-    margin-top: 30px;
-    font-family: Manrope;
+.description {
     font-size: 45px;
     font-weight: 400;
     line-height: 61px;
-    letter-spacing: -0.03em;
+    letter-spacing: -3%;
     text-align: left;
 }
 
